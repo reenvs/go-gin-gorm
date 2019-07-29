@@ -1,0 +1,13 @@
+{
+    "production_env": false,
+    "log_root": "./",
+    "bind_addr": "http://127.0.0.1:26880",
+    "db_name": "mysql",
+    "db_source_ams": "root:000000@(127.0.0.1:3306)/ams?charset=utf8\u0026parseTime=True\u0026loc=Local",
+    "db_source_cad": "root:000000@(127.0.0.1:3306)/cad?charset=utf8\u0026parseTime=True\u0026loc=Local",
+    "logger_level": 0,
+    "enable_orm_log": true,
+    "enable_http_log": true,
+    "enable_pprof": false,
+    "enable_prometheus": false
+}

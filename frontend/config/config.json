@@ -1,0 +1,12 @@
+{
+    "product": "ssp",
+    "production_env": false,
+    "ims_root": "../../",
+    "log_root": "",
+    "logger_level": 0,
+    "enable_orm_log": true,
+    "enable_http_log": true,
+    "api_bind_addr": "http://localhost:8000",
+    "title": "ssp系统",
+    "oms_addr": ""
+}
